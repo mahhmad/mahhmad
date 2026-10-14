@@ -1,4 +1,4 @@
-# Hi, I'm Mahhmad Nathani 👋
+# Hi, I am Mahhmad Nathani 👋
 
 ### AI Automation Engineer | Workflow Automation | CRM Systems | API Integrations
 
